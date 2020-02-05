@@ -1,4 +1,5 @@
 # jitoku-knife
+> 2020/02/05 first commit
 
 ## Project setup
 ```
